@@ -10,7 +10,6 @@ get '/welcome' do
   erb(:welcome)
 end
 
-
 # get '/rock/scissors' do
 #   "rock wins"
 # end
